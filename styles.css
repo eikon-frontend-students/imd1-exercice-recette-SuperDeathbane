@@ -41,6 +41,8 @@ ol {
 }
 p {
   margin: 0px;
+  color: #000;
+  font-family: Inter;
 }
 a {
   color: black;
